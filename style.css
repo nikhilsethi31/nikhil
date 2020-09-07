@@ -6,7 +6,7 @@ body
 }
 #header
 {
-	height: 80vh;
+	height: 50vh;
 	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/bg.jpg);
 	background-position: center;
 	background-size: cover;
